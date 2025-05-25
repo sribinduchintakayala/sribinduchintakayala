@@ -1,94 +1,74 @@
 # Hi, I'm Sri Bindu 👋
 
-I'm a passionate **Data Analyst** with expertise in **Power BI**, **Python**, and **SQL**. I specialize in **data visualization**, **dashboard design**, and **automating business insights** to drive decision-making. Currently working at **ICE Robotics** in Canada, where I focus on sales analysis, customer insights, and reporting automation.
+I'm a **Data Analyst** with 2+ years of experience in turning raw data into business insights. I specialize in **Power BI**, **SQL**, and **Python**, and I enjoy building dashboards, automating reporting workflows, and solving data problems that drive smarter decisions.
 
-With a **Graduate Certificate in AI & ML** and a **BTech in Electronics and Communications Engineering**, I’m passionate about turning data into actionable insights and solving complex problems with technology.
-
----
-
-## 🚀 Skills and Expertise
-- **Programming Languages**: Python, SQL, C, C++, Java
-- **Data Analysis & Manipulation**: Apache Spark, NumPy, Pandas
-- **Machine Learning**: TensorFlow, PyTorch, Sci-kit learn
-- **Deep Learning**: Keras
-- **Data Visualization**: Power BI
-- **Cloud Platforms**: Microsoft Azure, Databricks
-- **Database Management**: MySQL, MongoDB
-- **Tools**: Git, Jupyter, VS Code, Excel
+Currently, I’m working at **ICE Robotics**, where I led initiatives that improved lead conversion by 18% and increased campaign forecasting accuracy by 25%. I love working at the intersection of business and technology, using data to guide growth.
 
 ---
 
-## 🌟 Notable Projects
+## 🛠 Skills at a Glance
 
-### Tokyo Olympics Data Analytics — **Azure End-to-End Data Engineering Project**
-- Developed a data pipeline for the **Tokyo Olympics** dataset using **Azure** services, including Azure Data Lake, Data Factory, and Databricks.
-- Performed data transformation and advanced analytics with **Azure Synapse Analytics** and visualized insights using **Power BI**.
-- Demonstrated the scalability of Azure’s tools for real-world data analytics.
-
-### Tata Data Visualization — **Forage Job Simulation**
-- Utilized **Power BI** to analyze a dataset containing **581,518 rows** from online retail data across 8 countries.
-- Created visualizations to help senior leadership at **Tata Consultancy Services** make informed business decisions.
-
-### Book Recommendation System — **Academic Project**
-- Built a **book recommendation system** using collaborative filtering techniques.
-- Integrated datasets of users, books, and ratings, and visualized results using **Matplotlib** and **Seaborn**.
+- **Languages**: Python, SQL, C, C++, Java  
+- **Data Analysis**: Pandas, NumPy, Seaborn, Matplotlib  
+- **Visualization & BI**: Power BI, KPI Dashboards, Power Query, Excel (Advanced)  
+- **Machine Learning**: Scikit-learn, TensorFlow, PyTorch, NLP, LLMs, Time Series, Recommender Systems  
+- **Cloud & Pipelines**: Azure Data Factory, Databricks, Synapse Analytics, Spark  
+- **Databases**: Microsoft SQL Server, MongoDB, SQLite  
+- **Tools**: Git, Jira, VS Code  
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience Highlights
 
-### **Data Analyst**  
-**ICE Robotics**, Canada (Sep 2023 - Present)
-- Designed and maintained **Power BI** and **Excel** dashboards to track sales trends and business performance.
-- Analyzed customer insights and spending patterns to support marketing decisions.
-- Automated reporting and performance tracking using **SQL** and **Python**.
+### ICE Robotics – Data Analyst  
+*Toronto, Canada | Sep 2023 – Present*  
+- Built predictive dashboards and analytics models that boosted lead conversion by **18%** and reduced refund rates.  
+- Applied real-time anomaly detection using Python, improving campaign forecast accuracy by **25%**.  
+- Designed Power BI dashboards with automated ETL, improving business visibility.  
+- Collaborated across product and marketing teams to translate insights into actions.
 
-### **Project Engineer**  
-**Wipro Technologies**, India (Nov 2021 - Mar 2022)
-- Conducted manual and automated testing of **Ford infotainment systems**.
-- Streamlined testing processes using **Python**-based automation scripts.
-- Managed defect tracking and resolution through **Jira**.
-
-### **Coding Tutor**  
-**Brightchamps**, India (Sep 2021 - Feb 2022)
-- Tutored students in **Python**, **Scratch**, **HTML**, and **Thunkable**.
+### Wipro Technologies – Project Engineer  
+*India | Jul 2021 – Mar 2022*  
+- Automated test scripts in Python for infotainment systems, cutting regression testing time by 35%.  
+- Maintained high accuracy and accountability through structured QA and issue tracking using Jira.
 
 ---
 
-## 🎓 Education
+## 📊 Featured Projects
 
-- **Ontario Graduate Certificate in AI & ML**  
-  **Lambton College**, May 2022 - Dec 2023  
-  Relevant Courses: Data Mining, Natural Language Processing, Social Media Analytics, Visualization for AI & ML
+- **Tokyo Olympics Analytics (Azure Pipeline)**  
+  End-to-end data engineering project using Azure Data Factory, Databricks, and Power BI for real-time KPI tracking.
 
-- **Bachelor of Technology in Electronics and Communications Engineering**  
-  **Bapatla Engineering College**, Jun 2017 - Jul 2021  
-  Relevant Courses: Python, Probability, Statistics
+- **LLM Book Recommender**  
+  Built a collaborative filtering engine with feature engineering; explored integration with LLMs for conversational recommendations.
+
+- **PwC Forage Simulation (Retail Analytics)**  
+  Created region-wise Power BI dashboards to simulate retail executive decision-making.
+
+---
+
+## 🎓 Education & Certifications
+
+- **AI & Machine Learning** – Lambton College, Canada  
+- **B.Tech in Electronics & Communication** – Bapatla Engineering College, India  
+- **Certifications**:  
+  - DP-600: Microsoft Fabric Analytics (Expected May 2025)  
+  - Power BI (PwC Forage)  
+  - SQL (LinkedIn Learning)
 
 ---
 
 ## 🏆 Achievements
-- Awarded **Employee of the Month** twice at **ICE Robotics** for outstanding performance and contributions.
-- Secured a **Government Scholarship** for academic excellence in my **BTech** program.
+
+- Twice awarded **Employee of the Month** at ICE Robotics  
+- Received **Government Scholarship** for academic excellence (B.Tech)  
 
 ---
 
-## 📜 Certifications
-- **DP-203: Data Engineering on Microsoft Azure** (In Progress)
-- **Power BI Certification**, PwC Switzerland on Forage
-- **SQL Essential Training**, LinkedIn
-- **Power BI Workshop**, GrowthSchool
+## 📫 Connect With Me
 
----
-
-## 📫 Get in Touch
-- **Email**: [sribinduchintakayala@gmail.com](mailto:sribinduchintakayala@gmail.com)
-- **LinkedIn**: [linkedin.com/in/chintakayala-sri-bindu/](https://linkedin.com/in/chintakayala-sri-bindu/)
+- **Email**: [sribinduchintakayala@gmail.com](mailto:sribinduchintakayala@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/chintakayala-sri-bindu](https://linkedin.com/in/chintakayala-sri-bindu/)  
 - **GitHub**: [github.com/sribinduchintakayala](https://github.com/sribinduchintakayala)
 
----
-
-## 📊 GitHub Stats
-
-![Sri Bindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sribinduchintakayala&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
