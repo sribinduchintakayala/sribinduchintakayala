@@ -22,15 +22,19 @@ Currently, I’m working at **ICE Robotics**, where I led initiatives that impro
 
 ### ICE Robotics – Data Analyst  
 *Toronto, Canada | Sep 2023 – Present*  
-- Built predictive dashboards and analytics models that boosted lead conversion by **18%** and reduced refund rates.  
-- Applied real-time anomaly detection using Python, improving campaign forecast accuracy by **25%**.  
-- Designed Power BI dashboards with automated ETL, improving business visibility.  
-- Collaborated across product and marketing teams to translate insights into actions.
+- Conducted advanced data analysis using SQL and Python to evaluate lead conversions, demo performance, and refund rates.
+- Designed and implemented Power BI dashboards that visualized customer demographics, sales KPIs, and trend forecasts.
+- Delivered predictive insights that reduced refund requests by 15% through identification of behavior patterns.
+- Automated reporting pipelines and streamlined weekly performance tracking using Python and Excel macros.
+- Supported ad hoc data queries and collaborated cross-functionally to influence process improvements.
 
-### Wipro Technologies – Project Engineer  
+### Wipro Technologies – Data Analyst  
 *India | Jul 2021 – Mar 2022*  
-- Automated test scripts in Python for infotainment systems, cutting regression testing time by 35%.  
-- Maintained high accuracy and accountability through structured QA and issue tracking using Jira.
+- Worked on financial data analytics to support Synchrony’s credit card and consumer lending operations.
+- Created and maintained Power BI dashboards to monitor KPIs such as credit utilization, delinquency trends, and customer acquisition costs.
+- Conducted SQL-based ETL tasks to transform large volumes of credit card transaction data into actionable insights.
+- Developed Python scripts for data quality checks, anomaly detection, and automation of monthly financial reports.
+- Provided insights to marketing and risk teams to improve customer segmentation and campaign effectiveness.
 
 ---
 
@@ -52,7 +56,7 @@ Currently, I’m working at **ICE Robotics**, where I led initiatives that impro
 - **AI & Machine Learning** – Lambton College, Canada  
 - **B.Tech in Electronics & Communication** – Bapatla Engineering College, India  
 - **Certifications**:  
-  - DP-600: Microsoft Fabric Analytics (Expected May 2025)  
+  - PL-300: Power BI Data Analyst Associate (In Progress)  
   - Power BI (PwC Forage)  
   - SQL (LinkedIn Learning)
 
